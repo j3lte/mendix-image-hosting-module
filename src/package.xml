@@ -4,8 +4,9 @@
     <module name="ImageHosting" />
     <projectFile path="project.mpr" />
     <files>
-      <file path="javasource/imagehosting/actions/HostImage.java" />
+      <file path="javasource/imagehosting/actions/HostImageByID.java" />
       <file path="javascriptsource/imagehosting/actions/GetOrigin.js" />
+      <file path="javascriptsource/imagehosting/actions/GetID.js" />
       <file path="themesource/imagehosting/settings.json" />
       <file path="themesource/imagehosting/native/design-properties.json" />
       <file path="themesource/imagehosting/native/main.js" />
